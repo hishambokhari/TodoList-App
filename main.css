@@ -44,3 +44,7 @@
   padding: 0px;
   flex-basis: 44%;
 }
+
+input.strike ~ span {
+text-decoration: line-through;
+}
